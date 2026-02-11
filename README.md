@@ -6,4 +6,6 @@ Using the **Transhot** application, you can instantly capture and translate any 
 
 To activate, run the app using a global hotkey ```(Cmd + Shift + T)```. 
 
+To use, add your API key to the settings, and then click and drag on the text region you want to translate.
+
 This app is currently still undergoing development and only available on Mac devices.
