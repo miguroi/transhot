@@ -1,4 +1,4 @@
-# Transhot - Instant screen capture & translation for any texts, any languages 
+# Transhot - Instant screen capture & translation for any texts, any languages on Mac
 
 This app was created initially to help understand foreign comments on social media platforms better, where built-in translations doesn't really help.
 
@@ -6,4 +6,4 @@ Using the **Transhot** application, you can instantly capture and translate any 
 
 To activate, run the app using a global hotkey ```(Cmd + Shift + T)```. 
 
-This app is currently still undergoing development.
+This app is currently still undergoing development and only available on Mac devices.
